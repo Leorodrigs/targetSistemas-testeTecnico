@@ -1,0 +1,3 @@
+Projeto criado como teste técnico para a empresa Target Sistemas.
+A proposta do teste é em linguagem livre, portanto a escolha por JavaScript foi totalmente minha.
+Para a execução do programa, o usuário deve abrir o terminal (CTRL ') e direcionar para a pasta do projeto. Após, utilizar o comando "node 'nome do arquivo'" no terminal. Por exemplo: "node questao1.js". Isso deverá ser feito para cada arquivo para que todos sejam testados.
